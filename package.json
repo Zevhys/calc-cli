@@ -1,0 +1,35 @@
+{
+  "name": "calculator-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI calculator",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Command Line Interface",
+    "Tools",
+    "Calculator"
+  ],
+  "author": "Zevhys",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zevhys/calc-cli"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@types/node": "^22.13.0",
+    "@types/readline-sync": "^1.4.8",
+    "eslint": "^9.19.0",
+    "globals": "^15.14.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.22.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
