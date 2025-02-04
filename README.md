@@ -14,7 +14,7 @@ A robust TypeScript calculator that provides safe, type-checked mathematical ope
 
 ```bash
 # Clone Repository
-git clone https://github.com/Zevhys/personal-portfolio .
+git clone https://github.com/Zevhys/calc-cli .
 
 # Install Dependencies
 npm install
