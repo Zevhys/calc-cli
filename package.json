@@ -21,7 +21,7 @@
     "url": "https://github.com/Zevhys/calc-cli"
   },
   "devDependencies": {
-    "@eslint/js": "^9.19.0",
+    "@eslint/js": "^10.0.1",
     "@types/node": "^25.0.2",
     "@types/readline-sync": "^1.4.8",
     "eslint": "^9.19.0",
